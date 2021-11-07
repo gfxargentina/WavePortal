@@ -1,4 +1,4 @@
-# Conociendo Solidity
+# Conociendo Solidity y Hardhat
 
 Proyecto practico de BuildSpace: buildspace.so
 
